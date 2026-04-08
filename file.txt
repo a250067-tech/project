@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Project start
 Fix from team
+=======
+Project start 
+Feature A Code
+>>>>>>> 7b0a6dd (commit in feature)
