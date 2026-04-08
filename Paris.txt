@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Shubham Laxman Ghate
 I love Paris.
+=======
+I love paris
+>>>>>>> dev
